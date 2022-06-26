@@ -3,7 +3,7 @@
 # What does the Secure Score represent in Defender?
 - The higher the secure score, the more secure your environment is.
 
-# Regulatory Compliance - Azure security benchmark
+# Azure security benchmark
 - It is an initiative that's defined in the Azure policy service
 - Initatives are a group of policies. They are usually created with a common cause.
 - The security posture of your resources are compared against the Azure Security Benchmark.
