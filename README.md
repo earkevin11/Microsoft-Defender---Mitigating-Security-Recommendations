@@ -25,3 +25,14 @@
 
 # Continous Recommendations
 - As soon as an admin deploys a resource in a subscription that is linked to Microsoft Defender, Defender will immediately check for vulnerabiltiies and provide recommendations
+
+# Enable Enhanced Security
+- If admins want to use Just-in-Time access (JIT), then admins must have enhanced security in place
+- Enhanced Security has more security features
+
+
+# Vulnerability Assessments
+- From Microsoft Defender, admins can deploy vulnerability assessments onto virtual machines 
+- Qualys scanner, an external party, can be installed via an extension and perform a vulnerability assessment 
+- An extension to the Azure Virtual Machine will be installed when admins opt to deploy the vulnerability assessment solution
+- Scanning begins immediately from Qualys when the extension is installed
