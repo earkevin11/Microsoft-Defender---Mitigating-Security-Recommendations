@@ -1,5 +1,12 @@
 # Microsoft-Defender---Mitigating-Security-Recommendations
 
+
+# Overview section of Microsoft Defender
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175835361-1a58d0c1-bbdc-4680-8754-62aeb5561f7d.png" height="90%" width="90%" alt="front door"/>
+
+<p/>
 # What does the Secure Score represent in Defender?
 - The higher the secure score, the more secure your environment is.
 
