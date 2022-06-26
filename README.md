@@ -21,3 +21,7 @@
 # Regulatory Compliance
 - This tells you how compliant your resources are compared to the Azure Security Benchmark.
 - Other security standards can be applied like ISO 27001, PCI DSS, and more.
+
+
+# Continous Recommendations
+- As soon as an admin deploys a resource in a subscription that is linked to Microsoft Defender, Defender will immediately check for vulnerabiltiies and provide recommendations
