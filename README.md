@@ -36,3 +36,4 @@
 - Qualys scanner, an external party, can be installed via an extension and perform a vulnerability assessment 
 - An extension to the Azure Virtual Machine will be installed when admins opt to deploy the vulnerability assessment solution
 - Scanning begins immediately from Qualys when the extension is installed
+- Qualys scanner runs every 12 hours
